@@ -7,7 +7,8 @@
 # 2. Structure 
 There are 3 main files in this project:
 * The file input_data.csv is the dataset used for this project, it is provided by Dr. Russell Milne at the University of Alberta (https://russellmilne.com/teaching/gvrd-rangestd.csv)
-* project_code.ipynb is the jupyter notebook file that holds of my work.
+* codebase.ipynb is the jupyter notebook file that holds of my research for this project
+* project_code.ipynb is the jupyter notebook file that holds of my work. It is also the concised version from codebase.ipynb
 * Readme.md is the file you are reading now :)
 
 
